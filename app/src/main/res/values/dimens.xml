@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="normal">14dp</dimen>
+    <dimen name="title">22dp</dimen>
+    <dimen name="activity_vertical_margin" />
+    <dimen name="bank">18dp</dimen>
+    <dimen name="data">15dp</dimen>
+    <dimen name="nav_header_vertical_spacing"
+        />
+</resources>

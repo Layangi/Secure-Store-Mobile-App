@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SEC MAST</string>
+    <string name="hint_E">Email</string>
+    <string name="hint_P">Password</string>
+    <string name="not_Signed">No Account Yet ? Create One</string>
+    <string name="error_message_email">Enter A Valid Email</string>
+    <string name="error_valid_email_password">Login Unsuccess</string>
+    <string name="success_message">Successfully Signed Up !</string>
+    <string name="member">Already a Member ? Login</string>
+    <string name="error_mzg">Fill All The Feilds !</string>
+    <string name="error_mzg1">Please Enter Your Name !</string>
+    <string name="error_mzg2">Please Enter Your Email !</string>
+    <string name="error_mzg3">Please Enter Your Password !</string>
+    <string name="error_mzg4">Please Enter Your NIC !</string>
+    <string name="error_mzg5">Please Enter Your Encrypt Key !</string>
+    <string name="error_mzg6">Email Address Already Exists !</string>
+    <string name="success_message2">Successfully Loged In !</string>
+    <string name="error_Log">Your Username And Password deos not match !</string>
+    <string name="bankData">Bank Details</string>
+    <string name="bank">Bank</string>
+    <string name="accNo">Credit Card Number</string>
+    <string name="pin">PIN Number</string>
+    <string name="email">Email Address</string>
+    <string name="emailPwd">Email Password</string>
+    <string name="emailData">Email Details</string>
+    <string name="btnSave">Save</string>
+    <string name="btnView">View Bank Details</string>
+    <string name="btnemailView">View Email Details</string>
+    <string name="bankEn">Enter Bank Name</string>
+    <string name="accNoEn">Enter Credit Card Number</string>
+    <string name="pinEn">Enter PIN Number</string>
+    <string name="emailEn">Enter Email Address</string>
+    <string name="emailPwdEn">Enter Email Password</string>
+    <string name="title_activity_data_view">DataView</string>
+
+
+</resources>
